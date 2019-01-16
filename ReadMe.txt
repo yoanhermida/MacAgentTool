@@ -8,6 +8,6 @@ This graphical tool allows you to perform the following actions from macOS:
 - Restart the agent
 - Uninstall the agent
 
-Usage is as follows: sudo python ./_mac_agent_tool_final.py
+Usage is as follows: sudo python ./mac_agent_tool_0_1.py
 
-Future releases will aim to convert the Python code into a macOS application that can run without invoking Python from the command line.
+Future releases will aim to deploy as a macOS application that can run without invoking Python from the command line.
