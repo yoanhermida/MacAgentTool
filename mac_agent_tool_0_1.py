@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#Author:	Yoan G. Hermida
+#Author:	Yoan Hermida
 #Date:		2017-01-09
 #Purpose:	Utilities for the Automate Mac Agent.
 
@@ -62,7 +62,7 @@ def uninstall_agent():
 		showinfo("Error", "Unable to determine agent status.")
 	
 def about():
-	showinfo("About", "Copyright (c) 2017 by Yoan G. Hermida\n\nAll Rights Reserved\n\nAutomate is a registered trademark of ConnectWise.\n\nProvided as is and without warranty; use at your own risk.\n\nNot officially supported by ConnectWise.")
+	showinfo("About", "Copyright (c) 2017 by Yoan Hermida\n\nAll Rights Reserved\n\nAutomate is a registered trademark of ConnectWise.\n\nProvided as is and without warranty; use at your own risk.\n\nNot officially supported by ConnectWise.")
 	
 def exit_app():
 	root.destroy()
